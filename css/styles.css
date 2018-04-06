@@ -1,12 +1,9 @@
-#piggy1 {
-    background-image: url("../img/piggy1.gif")
+.well {
+    background-image: url("../img/dice1.jpeg")
 }
 
-.head {
+.piggy-heading {
     font-family: 'Courier New', Courier, monospace;
-    font-size: 15px;
-} 
-
-#piggy2 {
-    background-image: url("../img/piggy2.gif")
+    font-size: 50px;
+    text-align: center;
 }
