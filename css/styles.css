@@ -1,0 +1,12 @@
+#piggy1 {
+    background-image: url("../img/piggy1.gif")
+}
+
+.head {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+} 
+
+#piggy2 {
+    background-image: url("../img/piggy2.gif")
+}
