@@ -25,13 +25,16 @@
 #user1 {
     padding-top: 25%;
     padding-bottom: 0%;
-    background-image: url("../img/dice1.jpeg");
-    align-items: center;
 }
 
 #user2 {
     padding-top: 25%;
     padding-bottom: 0%;
+}
+
+#dice-back {
     background-image: url("../img/dice1.jpeg");
-    align-items: center;
+    background-size: 100%;
+    padding: 15%;
+    padding-left: 50px;
 }
