@@ -6,15 +6,18 @@ function rollDice(ansWer){
 //Player-1
 
 $(document).ready(function(){
-    $("#user1#user-name").click (function(event){
+    document.getElementById("#submit-btn").click (function(event){
       event.preventDefault();
-      document.getElementById("#user1#user-name").style.display = "none";
+      document.getElementById("#submit-btn").hide = "none";
+      document.getElementById("#submit-btn").alert = "Payer 1 has successfully been added!";
 
 //Player-2
 
 $(document).ready(function(){
-    $("#user2#user-name").submit (function(event){
+    document.getElementById("#submit-btn").click (function(event){
       event.preventDefault();
-      document.getElementById("#user1#user-name").style.display = "none";
+      document.getElementById("#submit-btn").hide = "none";
+      document.getElementById("#submit-btn").alert = "Payer 2 has successfully been added!";
+      
       
 //User-interface
